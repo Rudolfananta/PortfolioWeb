@@ -151,7 +151,7 @@ section
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 20rem;
+    width: 16.5rem;
     height: 100%;
     background: var(--main-color);
     border: .2rem solid var(--main-color);
